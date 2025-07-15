@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **Resturant Automation,personal assistants**
 
 - 🌱 I’m currently learning **Machine learning,python framework libraries**
-- 
 { "Lately, I’ve been doing AI automation through n8n and created some personal assistant–style AI agent — including a voice-based restaurant reservation bot that handles bookings using AI and Eleven Labs. I enjoy working with smart workflows and automation tools to build practical solutions.
 
 In addition, I’ve developed Java Swing-based management systems (Clinic & Blood Bank) integrated with SQL databases, focusing on clean GUIs and functional data flow.
