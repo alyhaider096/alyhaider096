@@ -11,10 +11,10 @@ Building **AI agents, RAG systems, vector database apps, AI chatbots, n8n workfl
 </p>
 
 <p>
-  <a href="mailto:aly.haider096@gmail.com">
+  <a href="mailto:aly.haider069@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ali-haider">
+  <a href="https://www.linkedin.com/in/ali-haider-300aab245/">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Haider-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/aly.movs">
