@@ -1,6 +1,6 @@
 """
 Render data/contributions.json into an animated SVG heatmap:
-53 weeks x 7 days of rounded boxes, revealed column-by-column with a short
+53 weeks x 7 days of rounded boxes, revealed column-by-column wa short
 per-box stagger, then frozen (no infinite looping).
 """
 import json
